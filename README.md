@@ -2,7 +2,7 @@
  ### 🔭 I’m currently working: 
  #### on creating an educational tool for future civic leaders with a mongoDB backend, graphQL middleware, and React/Nextjs frontend.
  <br />
- ### 📫 How to reach me: 
+ ## 📫 How to reach me: 
  #### thomps9012@gmail.com
  <br />
  ### ⚡ Fun fact: 

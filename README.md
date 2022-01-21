@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-### 🔭 I’m currently working: 
- #### on creating an educational tool for future civic leaders with a mongoDB backend, graphQL middleware, and React/Nextjs frontend.
+### 🔭 I’m currently working on: 
+ #### Creating an educational tool for future civic leaders with a mongoDB backend, graphQL middleware, and React/Nextjs frontend.
 ### 📫 How to reach me: 
  #### thomps9012@gmail.com
 ### ⚡ Fun fact: 

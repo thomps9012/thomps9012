@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 ### 🔭 I’m currently working on: 
+ ## [People's Purse](https://peoplespurse.org)
  #### Creating an educational tool for future civic leaders with a mongoDB backend, graphQL middleware, and React/Nextjs frontend.
-   ##### [People's Purse](https://peoplespurse.org)
+ 
 
 ### 📫 How to reach me: 
  #### thomps9012@gmail.com

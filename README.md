@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### 🔭 I’m currently working on: 
- ### [People's Purse](https://peoplespurse.org)
+ ### [the People's Purse](https://peoplespurse.org)
  #### Creating an educational tool for future civic leaders with a mongoDB backend, graphQL middleware, and React/Nextjs frontend.
  
 

@@ -12,7 +12,7 @@
  #### Cyclocross is pretty cool
 
 ### 🦣 Other Online Presences
-  #### [Blog](https://thomps9012-github-io.vercel.app/)
+  #### [Personal Site](https://thomps9012-io.vercel.app/)
   #### [LinkedIn Profile](https://www.linkedin.com/in/samuel-joseph-thompson/)
   #### [dev.to Profile](https://dev.to/thomps9012)
   

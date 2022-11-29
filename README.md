@@ -1,22 +1,22 @@
 ### Hi there 👋
 
-### 🔭 I’m currently working on: 
+<!-- ### 🔭 I’m currently working on: 
  ### [the People's Purse](https://peoplespurse.org)
  #### Creating an educational tool for future civic leaders with a mongoDB backend, graphQL middleware, and React/Nextjs frontend.
- 
+  -->
 
 ### 📫 How to reach me: 
- #### thomps9012@gmail.com
- 
-### ⚡ Fun fact: 
- #### Cyclocross is pretty cool
+<!--  #### thomps9012@gmail.com -->
+<!--  
+### ⚡ Fun fact:  -->
+ #### [Personal Contact Email](https://thomps9012-io.vercel.app/contact)
 
 ### 🦣 Other Online Presences
   #### [Personal Site](https://thomps9012-io.vercel.app/)
   #### [LinkedIn Profile](https://www.linkedin.com/in/samuel-joseph-thompson/)
   #### [dev.to Profile](https://dev.to/thomps9012)
   
-### 🌱 Loving:
+<!-- ### 🌱 Loving:
   #### TypeScript
   #### Dockerfiles
-  #### NextJs
+  #### NextJs -->

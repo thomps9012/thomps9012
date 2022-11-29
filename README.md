@@ -5,11 +5,11 @@
  #### Creating an educational tool for future civic leaders with a mongoDB backend, graphQL middleware, and React/Nextjs frontend.
   -->
 
-### 📫 How to reach me: 
+### 📫 Contact 
 <!--  #### thomps9012@gmail.com -->
 <!--  
 ### ⚡ Fun fact:  -->
- #### [Personal Contact Email](https://thomps9012-io.vercel.app/contact)
+ #### [Personal Email](https://thomps9012-io.vercel.app/contact)
 
 ### 🌌 Online Presence
   #### [Personal Site](https://thomps9012-io.vercel.app/)

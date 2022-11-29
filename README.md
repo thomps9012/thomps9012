@@ -11,7 +11,7 @@
 ### ⚡ Fun fact:  -->
  #### [Personal Contact Email](https://thomps9012-io.vercel.app/contact)
 
-### 🦣 Online Presence
+### 🌌 Online Presence
   #### [Personal Site](https://thomps9012-io.vercel.app/)
   #### [LinkedIn Profile](https://www.linkedin.com/in/samuel-joseph-thompson/)
   #### [dev.to Profile](https://dev.to/thomps9012)
